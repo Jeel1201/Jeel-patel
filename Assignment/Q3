@@ -1,1 +1,29 @@
+Q3:explain each phase of CDSL?
+ans:	(1) Planning and requirement analysis
+	    (2) System design
+	    (3) Implementation-coding
+	    (4) Testing
+	    (5) Deployment
+	    (6) Maintenance
 
+	1: Planning and requirement analysis
+	    = The purpose of the application
+	    = The details about the end-user of the product
+    	= Key element like format and attributes of the application for designing
+	    = and the over all user interfaces design of the software
+
+	2.design
+	    =check fesibilty with requirements
+	    =creating a blue print for the software's arcitecture.
+	
+	3.Implementation (or coding)
+	    = writing the actual code based on the design document
+	
+	4.testing
+     	=deployed in multiple test environments to check the functioning
+
+	5.deployment
+    	= Aftwe twsting the software is deployed to the production environment where it becomes available to users.
+	
+	6.maintenance
+	    =rwgular updates with enhanced feutures
