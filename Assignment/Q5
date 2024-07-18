@@ -1,12 +1,10 @@
-Q5 : what is dfd? create a dfd diagram on flipkart
-    ans: Ans: DFD (Data Flow Diagram) is a graphical representation of the flow of data through an information system. 
-     It shows how data is processed and transferred between different components of the system.
+Q5:What is Flow chart? Create a flowchart to make addition of two numbers.
+ Ans: A flowchart is a diagram that depicts a process, system or computer algorithm. 
 
-    Thers main four componets of DFD (Data Flow Diagram),
-    1) Entity
-    2) Process
-    3) Data store
-    4) Data flow
+
+
+
+
 
 https://drive.google.com/file/d/1ikVCWD8Ay4oZCmlpT9U7s2vur1ktN65O/view?usp=sharing
 https://drive.google.com/file/d/1D1zMroBnmT49YGYc6tNSpp6ClivpWkV8/view?usp=sharing
