@@ -1,12 +1,7 @@
 Q 2.explain types of software
-ans	- systum software
- 	  - application software
-(1) systum software
-	  - opreting systum
-	  -system software is used for operating computer hardware 
-	  -it provide platfrom for running application software 
-	  -thw user dose not interact with systum ssoftaware because it works in the background
-(2) Application software
-	  -general purpose softawre
-	  -customised software
-  	-Application software are instelled according to user's requirements.
+ans : mainly two types of software
+
+   1.System Software: 
+     System software is software that directly operates the computer hardware and provides the basic functionality to the users as well as to            the other software to operate smoothly.
+     ex: Windows, macOS, Linux
+  2.Application software:Application software consists of programs designed to perform specific tasks.
